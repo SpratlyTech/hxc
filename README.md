@@ -1,2 +1,3 @@
 # hxc
-Shopify Hydrogen-powered storefront created with Weaverse
+Shopify Hydrogen-powered storefront created with Weaverse!
+
